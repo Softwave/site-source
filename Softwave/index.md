@@ -9,7 +9,7 @@ templateEngineOverride: njk
   </div>
     <h2>Hi!</h2>
     
-    Hello, and welcome to my webpage! My name is Jessica (though you may know me by any of a number of other names!) and this is my website.<br><br>
+    Hello, and welcome to my webpage! My name is Jessica (though you may know me by any of a number of other names!), and I'm a hobbyist developer from the USA 🇺🇸, and this is my website.<br><br>
     
     I like writing computer programs, writing stories, and studying Jesus-y ✝️ things and (Anglican 🏴󠁧󠁢󠁥󠁮󠁧󠁿) theology. <br><br>
     

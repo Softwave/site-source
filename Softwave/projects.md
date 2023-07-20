@@ -1,7 +1,7 @@
 ---
 title: PROJECTS
 layout: layouts/page.njk
-tags: page
+tags: 
 date: 2023-02-04
 ---
 
