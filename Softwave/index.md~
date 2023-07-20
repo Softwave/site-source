@@ -1,0 +1,21 @@
+---
+title: Softwave
+layout: layouts/base.njk
+eleventyImport:
+  collections: ["page"]
+templateEngineOverride: njk
+---
+<div class="wrapper">
+  </div>
+    <h2>Hi!</h2>
+    
+    Hello, and welcome to my webpage! My name is Jessica (though I go by a number of names!) and I enjoy writing computer programs.<br><br>
+    
+    I use she/her pronouns, and I support you.🏳️‍🌈🏳️‍⚧️<br><br>
+    
+    I have particular interest in creative coding, computer graphics, computer games, AI, and the notion of software as art. I also like old things, writing stories, retrocomputing, and being just generally old-fashioned.<br>
+    Oh, and bats! I love bats. 🦇<br><br>
+
+    I hope you enjoy my website and that you have a nice day. ^_^
+    
+<div>
