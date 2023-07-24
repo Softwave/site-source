@@ -10,17 +10,7 @@ templateEngineOverride: njk
   
     <h2>Hi!</h2>
     
-    Hello, and welcome to my webpage! My name is Jessica (though you may know me by any of a number of other names!), and I'm a hobbyist developer from the USA 🇺🇸, and this is my website.<br><br>
-    
-    I like writing computer programs, writing stories, and studying Jesus-y ✝️ things and (Anglican 🏴󠁧󠁢󠁥󠁮󠁧󠁿) theology. <br><br>
-    
-    I have particular technical interest in creative coding, retrocomputing, computer graphics and games, AI, and the notion of software as art. <br> 
-    
-    I like old things, and enjoy being generally old-fashioned in all I do. <br><br>
-    Oh, and bats! I love bats. They are friends. 🦇<br><br>
+    My name is Jessica, and I'm a hobby computer programmer and game developer, making and sharing random little projects on the internet information superhighway. ^_^<br><br>
 
-    I hope you enjoy my website and that you have a nice day. ^_^
-
-    <img class="logo" src="https://cdn.discordapp.com/attachments/971817308433571843/1132961635779231754/SWLogoClearBG.png"></img>
-    
+    I also enjoy writing stories 📘, photography 📷, being in the mountains ⛰️, and studying Jesus-y ✝️ things.<br><br>
 <div>
