@@ -1,5 +1,5 @@
 ---
-title: PAGES
+title: Pages
 layout: layouts/blog.njk
 date: Last Modified
 eleventyImport:

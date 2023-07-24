@@ -16,7 +16,7 @@ In this page I wanted to share the state of my current computing setup. As someo
 * CPU: Intel Core i5-12400F @ 5.6GHz
 * Memory: 32GB Corsair
 * Storage: 1TB M.2/1TB SATA
-* OS: Nobara Linux/Windows 11
+* OS: [Nobara Linux](https://nobaraproject.org/)/Windows 11
 * Desktop: [NsCDE](https://github.com/NsCDE/NsCDE)
 
 ### Peripherals
