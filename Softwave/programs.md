@@ -1,28 +1,35 @@
 ---
-title: PROGRAMS
+title: Free Programs
 layout: layouts/page.njk
-tags: 
-date: 2023-02-08
+tags: page
+date: 2023-07-23
 ---
 
-Free computer programs, games and source code~. A number of things are Windows-only, and for that I do apologise. 
+## Free Programs
 
-### Commodore 64
+Assorted free computer programs, games and source code of mine~. 
 
-* [Weirdvision 64](https://softwave.itch.io/weirdvision-64) - The elder's have one and only one demand: bring them more moos. A little game for the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) home computer, written in 6502 Assembly Language. Tested on real hardware. 
+### Utilities 
+
+* [FuzzyMoji](https://github.com/Softwave/AssortedPrograms/releases/tag/fuzzy-moji) - Fuzzy-finding emoji search. Python.
+* [PigmentPicker](https://softwave.itch.io/pigment-picker) - A teeny tiny utility for picking colours from the display. Python.
+* [Cloq](https://softwave.itch.io/cloq) - A little clock program. Win/Linux.
+* [Radix](https://www.s0ftwave.com/radix-app/) - Convert number bases. Online.
+* [ClrTool](https://github.com/Softwave/ClrTool) - Colour manager program. Remaking.
+* [Fib](https://github.com/Softwave/AssortedPrograms/tree/main/fib) - Calculate the nth fibonacci number. C source code. 
 
 ### Toys and Demos
 
-* [Blazing Mandelbrot](https://softwave.itch.io/blazing-mandelbrot) - Fiery fractal program. 
-* [StarFlyer](https://softwave.itch.io/starflyer) - Starfield desktop toy.
+* [Blazing Mandelbrot](https://softwave.itch.io/blazing-mandelbrot) - Fiery fractal program. Win/Linux.
+* [StarFlyer](https://softwave.itch.io/starflyer) - Starfield desktop toy. Win/Linux.
 
-### Old Flash Things
+### Dotfiles
 
-Old toys and games in Adobe Flash; still runnable as a packed Windows program or through Newgrounds. 
+* [My Emacs dotfiles](https://github.com/Softwave/emacs.d)
+* [Spaceworm92](https://github.com/Softwave/Spaceworm92) - My Emacs theme.
 
-* [Weirdvision](https://softwave.itch.io/weirdvision) - An unfinished, trippy, alien game. Inspiration for Weirdvision 64.
-* [Paint Thing](https://softwave.itch.io/paint-thing) - Trippy toy paint program. 
-* [The Worm](https://softwave.itch.io/the-worm) - Feed garbage to a giant worm. 
-* [Kablam](https://www.newgrounds.com/portal/view/634916) - Based on Kaboom! Online via Newgrounds.
+### Libraries and Code
 
+* [glsl-superformula](https://github.com/Softwave/glsl-superformula) - A GLSL function for generating 3D supershapes. NPM. 
+* [WalkerController](https://github.com/Softwave/WalkerController) - Minimal first person walking in Unity. C# code. 
 
