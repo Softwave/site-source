@@ -1,6 +1,6 @@
 ---
 title: PAGES
-layout: layouts/page.njk
+layout: layouts/blog.njk
 date: Last Modified
 eleventyImport:
   collections: ["page"]

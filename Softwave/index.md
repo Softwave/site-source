@@ -7,6 +7,7 @@ templateEngineOverride: njk
 ---
 <div class="wrapper">
   </div>
+  
     <h2>Hi!</h2>
     
     Hello, and welcome to my webpage! My name is Jessica (though you may know me by any of a number of other names!), and I'm a hobbyist developer from the USA 🇺🇸, and this is my website.<br><br>
@@ -19,5 +20,7 @@ templateEngineOverride: njk
     Oh, and bats! I love bats. They are friends. 🦇<br><br>
 
     I hope you enjoy my website and that you have a nice day. ^_^
+
+    <img class="logo" src="https://cdn.discordapp.com/attachments/971817308433571843/1132961635779231754/SWLogoClearBG.png"></img>
     
 <div>

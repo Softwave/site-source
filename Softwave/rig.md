@@ -27,9 +27,9 @@ In this page I wanted to share the state of my current computing setup. As someo
 
 ### Tools
 
-* Editor: Emacs ([dotfiles](https://github.com/Softwave/emacs.d))
+* Editor: Emacs ([dotfiles](https://github.com/Softwave/emacs.d)) & [Micro](https://micro-editor.github.io/)
 * Terminal: XFCE-4 Terminal 
-* Font: Cozette + FixedSys Excelsior 
+* Font: [Cozette](https://github.com/slavfox/Cozette) (Terminal) + [FixedSys Excelsior](https://github.com/kika/fixedsys) (Editors) 
 
 Whilst I enjoy Windows 11 well enough, most of my time these days is spent in Linux.
 
