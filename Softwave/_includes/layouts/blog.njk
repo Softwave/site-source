@@ -15,15 +15,9 @@
     </script>
   </head>
   <body>
+    <header>{% include "layouts/nav.njk" %}</header>
     <div class="page">
-    <header>
-      <!-- <h1 class="title">{{ title }}</h1> -->
-      <div class="backbtn">
-        <div class="hover-underline-animation">
-        <a class="about__back" href="/">&lt;-- home</a>
-        </div>
-      </div>
-    </header>
+    
     <main>
       {{ content | safe }}
       <h4>© Jessica Leyba 2023</h4>
