@@ -20,7 +20,7 @@ Assorted free computer programs, games and source code of mine~.
 
 ### Toys and Demos
 
-* [Super Shapes 2](https://softwave.itch.io/super) - Generate neat shapes. Win/Linux.
+* [Super Shapes 2](https://www.s0ftwave.com/supershapes/) - Generate neat shapes. Win/Linux.
 * [Blazing Mandelbrot](https://softwave.itch.io/blazing-mandelbrot) - Fiery fractal program. Win/Linux.
 * [StarFlyer](https://softwave.itch.io/starflyer) - Starfield desktop toy. Win/Linux.
 
