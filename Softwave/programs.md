@@ -17,7 +17,7 @@ Assorted free computer programs, games and source code of mine~.
 * [Radix](https://www.s0ftwave.com/radix-app/) - Convert number bases. Online.
 * [ClrTool](https://github.com/Softwave/ClrTool) - Colour manager program. Remaking.
 * [Fib](https://github.com/Softwave/AssortedPrograms/tree/main/fib) - Calculate the nth fibonacci number. C source code. 
-* [Cranmer](https://github.com/Softwave/Cranmer) - Discord bot for querying the Anglican 39 Articles.
+* [Cranmer](https://www.s0ftwave.com/cranmerbot/) - Discord bot for querying the Anglican 39 Articles.
 
 ### Toys and Demos
 
