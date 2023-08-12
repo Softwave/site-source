@@ -13,7 +13,7 @@ Simply type the name of the Article you want to display in square brackets, like
 
 I'm presently investigating adding additional features which may be useful for Anglican Christians. <br>
 
-If you enjoy the games I create or the programming content I share, consider buying me a tea through Ko-fi! Your support helps fuel late-night coding sessions and brings new projects to life. 
+If you enjoy the bot or the programming content I share, consider buying me a tea through Ko-fi! I have to pay to host the bot, and every little bit helps. 
 
 <a class="flat-button" href="https://discord.com/api/oauth2/authorize?client_id=1139787660123197450&permissions=274877910016&scope=bot" target="_blank">Add Cranmer To Your Server</a> <br><br>
 <a class="flat-button" href="https://github.com/Softwave/Cranmer" target="_blank">Source Code</a>
