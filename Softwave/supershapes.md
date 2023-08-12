@@ -14,7 +14,7 @@ It runs on Windows and Linux. <br>
 <a class="flat-button" href="https://softwave.itch.io/super" target="_blank">Download on itch.io</a> <br><br>
 <a class="flat-button" href="https://github.com/Softwave/SuperShapes" target="_blank">Source Code</a><br><br>
 
-<img class="border-image" src="https://img.itch.zone/aW1hZ2UvMjE4OTAxNi8xMjkyODI2Mi5wbmc=/original/G27I01.png"></img>
+<img class="border-image" src="https://img.itch.zone/aW1hZ2UvMjE4OTAxNi8xMjkyOTY0MC5wbmc=/347x500/tSXZvh.png"></img>
 
 
 
