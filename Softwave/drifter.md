@@ -16,4 +16,4 @@ Drifter is an experimental exploration game I made with Unity in May of 2015. It
 
 The music is “Thunder Dreams” by [Incompetech](https://incompetech.com/).
 
-![Drifter screenshot](http://i.imgur.com/qNYHH3J.png)
+<img src="http://i.imgur.com/qNYHH3J.png" class="border-image"></img>

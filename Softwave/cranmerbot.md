@@ -16,7 +16,7 @@ I'm presently investigating adding additional features which may be useful for A
 <a class="flat-button" href="https://discord.com/api/oauth2/authorize?client_id=1139787660123197450&permissions=274877910016&scope=bot" target="_blank">Add Cranmer To Your Server</a> <br><br>
 <a class="flat-button" href="https://github.com/Softwave/Cranmer" target="_blank">Source Code</a>
 
-<img class="border-image" src="https://github.com/Softwave/Cranmer/blob/main/logo1.png?raw=true"></img>
+<img class="border-image" src="https://cdn.discordapp.com/attachments/971817308433571843/1139895277017387028/cranmer.png"></img>
 
 
 <img class="border-image" src="https://pbs.twimg.com/media/F3T7bzNbIAAIvtR?format=png&name=small"></img>

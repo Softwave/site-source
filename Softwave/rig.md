@@ -37,6 +37,7 @@ For the past few years I've edited text in Visual Studio Code, which is wonderfu
 
 My choice of NsCDE as my desktop environment is motivated by my ageless longing for a Unix workstation, modernised. The classic workstation look, I feel, helps my computing feel a bit more serious, and less like a toy. I'm not content with just a retro environment, or just a modern environment, I want to have both. A retro-futuristic environment that anchors me in computer science and computing history (including within the realms of computer graphics), and also is very modern and capable. And for this, NsCDE fulfills that goal splendidly.
 
-![My NsCDE desktop](https://cdn.discordapp.com/attachments/971817308433571843/1118601097481830500/Screenshot_2023-06-14_12-00-47.png)
 
-![My keyboard and mouse](https://cdn.discordapp.com/attachments/971817308433571843/1131589588821999626/IMG_2036.JPG)
+<img class="border-image" src="https://cdn.discordapp.com/attachments/971817308433571843/1118601097481830500/Screenshot_2023-06-14_12-00-47.png"></img><br>
+<img class="border-image" src="https://cdn.discordapp.com/attachments/971817308433571843/1131589588821999626/IMG_2036.JPG"></img>
+
