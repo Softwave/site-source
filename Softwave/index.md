@@ -13,4 +13,8 @@ templateEngineOverride: njk
     People call me Serene (among various other names!), and I'm a hobby computer programmer and game developer, making and sharing random little projects on the internet information superhighway. ^_^<br><br>
 
     I also enjoy writing stories 📘, photography 📷, being in the mountains ⛰️, learning about bats 🦇, and studying Jesus-y ✝️ things.<br><br>
+    
+        <a class="flat-button" href="https://ko-fi.com/s0ftwave" target="_blank">🍵 Buy Me A Tea</a>
+        
+        
 <div>
