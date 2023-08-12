@@ -7,7 +7,7 @@ date: 2023-08-12
 
 <meta property="og:title" content="Cranmer" />
 <meta property="og:description" content="Cranmer is a Discord bot for querying the Anglican 39 Articles." />
-<meta property="og:image" content="https://pbs.twimg.com/media/F3T7bzNbIAAIvtR?format=png&name=small" />
+<meta property="og:image" content="https://cdn.discordapp.com/attachments/971817308433571843/1139895277017387028/cranmer.png" />
 <meta property="og:url" content="https://www.s0ftwave.com/cranmerbot/" />
 
 ## Cranmer
