@@ -11,7 +11,7 @@ Assorted free computer programs, games and source code of mine~.
 
 ### Utilities 
 
-* [FuzzyMoji](https://github.com/Softwave/AssortedPrograms/releases/tag/fuzzy-moji) - Fuzzy-finding emoji search. Python.
+* [FuzzyMoji](https://softwave.itch.io/fuzzymojifinder) - Fuzzy-finding emoji search. Win/Linux.
 * [PigmentPicker](https://softwave.itch.io/pigment-picker) - A teeny tiny utility for picking colours from the display. Python.
 * [Cloq](https://softwave.itch.io/cloq) - A little clock program. Win/Linux.
 * [Radix](https://www.s0ftwave.com/radix-app/) - Convert number bases. Online.
