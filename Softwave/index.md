@@ -10,12 +10,11 @@ templateEngineOverride: njk
   
     <h2>Hi!</h2>
     
-    People call me Jessica (or Serene, in some circles!). I'm a hobby (for now) computer programmer and game developer, making and sharing random little projects on the internet information superhighway. ^_^<br><br>
-
-    I also enjoy writing stories 📘, photography 📷, being in the mountains ⛰️, learning about bats 🦇, and studying Jesus-y ✝️ things.<br><br>
+    People call me Jessica (or Serene, in some circles!), and I'm a computer programmer and creative coder.<br><br> I love making things with computers. I also love writing 📘, photography 📷, the mountains ⛰️, studying theology ✝️, and learning about bats 🦇.<br><br>
     
         
         <a class="flat-button" href="Resume.pdf" target="_blank">Download My Resume 📄</a>
+        <a class="flat-button" href="https://www.buymeacoffee.com/jleyba92K" target="_blank">Buy Me A Tea 🍵</a>
         
         
         
