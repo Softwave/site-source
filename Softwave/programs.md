@@ -18,6 +18,7 @@ Assorted free computer programs, games and source code of mine~.
 * [ClrTool](https://github.com/Softwave/ClrTool) - Colour manager program. Remaking.
 * [Fib](https://github.com/Softwave/AssortedPrograms/tree/main/fib) - Calculate the nth fibonacci number. C source code. 
 * [Cranmer](https://www.s0ftwave.com/cranmerbot/) - Discord bot for querying the Anglican 39 Articles.
+* [Edwardianiser](https://s0ftwave.com/edwardian/) - An AI tool for writers of period fiction. Online, mobile-friendly. 
 
 ### Toys and Demos
 
