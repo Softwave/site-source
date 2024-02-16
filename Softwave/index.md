@@ -10,7 +10,7 @@ templateEngineOverride: njk
   
     <h2>Hi!</h2>
     
-    People call me Jessica (or Serene, in some circles!), and I'm a computer programmer and creative coder.<br><br> I love making things with computers. I also love writing 📘, photography 📷, the mountains ⛰️, studying theology ✝️, and learning about bats 🦇.<br><br>
+    People call me Jessica (or Serene, increasingly!), and I'm a computer programmer and creative coder.<br><br> I love making things with computers. I also love writing 📘, photography 📷, the mountains ⛰️, studying theology ✝️, and learning about bats 🦇.<br><br>
     
         
         <a class="flat-button" href="Resume.pdf" target="_blank">Download My Resume 📄</a>
