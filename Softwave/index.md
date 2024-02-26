@@ -6,16 +6,10 @@ eleventyImport:
 templateEngineOverride: njk
 ---
 <div class="wrapper">
-  </div>
-  
-    <h2>Hi!</h2>
-    
-    People call me Jessica (or Serene, increasingly!), and I'm a computer programmer and creative coder.<br><br> I love making things with computers. I also love writing 📘, photography 📷, the mountains ⛰️, studying theology ✝️, and learning about bats 🦇.<br><br>
-    
-        
-        <a class="flat-button" href="Resume.pdf" target="_blank">Download My Resume 📄</a>
-        <a class="flat-button" href="https://www.buymeacoffee.com/jleyba92K" target="_blank">Buy Me A Tea 🍵</a>
-        
-        
-        
-<div>
+</div>
+
+	<h2>Hi!</h2>
+
+	I'm a hobbyist computer programmer and game developer. This is my personal website where I put together my projects and share things that fascinate me. Beyond computers 🖥️ and programming, I also love writing 📘, photography 📷, being in the mountains ⛰️, and studying Christian theology ✝️. <br><br> Oh, also bats 🦇. I love bats! For more about me, see my <a href="/About/">about.</a>
+
+
