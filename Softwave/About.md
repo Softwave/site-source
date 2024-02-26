@@ -10,8 +10,9 @@ More thorough information about me, and links to my various presences online.
 ## Links 
 
 * **GitHub:** [Softwave](https://github.com/Softwave)
-* **YouTube:** [Softwave](https://www.youtube.com/channel/UCkfgPY7WMSN954j3nR5COwQ)
+* **YouTube:** [Softwave](https://www.youtube.com/@softwave1662)
 * **Buy Me A Coffee:** [Or a tea, rather](https://www.buymeacoffee.com/jleyba92k)
+* **Patreon:** [My patreon](https://patreon.com/user?u=570994)
 * **Substack:** [Where I talk about Jesus things 🙏🏽](https://serene1662.substack.com/)
 * **Pronouns:** [pronouns.cc/@Serene1662](https://pronouns.cc/@Serene1662)
 * **DeviantArt:** [SpaceNoodle92](https://www.deviantart.com/spacenoodle92)

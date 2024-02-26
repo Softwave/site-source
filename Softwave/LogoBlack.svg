@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="LogoBlack.svg"
+   inkscape:export-filename="Logo512.png"
+   inkscape:export-xdpi="491.51999"
+   inkscape:export-ydpi="491.51999"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:bx="https://boxy-svg.com">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.4842495"
+     inkscape:cx="64.002305"
+     inkscape:cy="66.298352"
+     inkscape:window-width="1910"
+     inkscape:window-height="961"
+     inkscape:window-x="1680"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs12">
+    <style
+       bx:fonts="Assistant"
+       id="style1">@import url(https://fonts.googleapis.com/css2?family=Assistant%3Aital%2Cwght%400%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800&amp;display=swap);</style>
+  </defs>
+  <rect
+     style="fill:#000000;stroke-width:6;stroke-linecap:square;paint-order:markers stroke fill"
+     id="rect1"
+     width="100"
+     height="100"
+     x="0"
+     y="0" />
+  <text
+     id="text6"
+     style="font-weight:800;font-size:16.3674px;font-family:Assistant;letter-spacing:1.63674px;text-anchor:middle;white-space:pre;display:none;stroke-width:1.63674px"
+     x="50.335701"
+     y="90.333801">SOFTWAVE</text>
+  <circle
+     id="circle2-7"
+     style="fill:#c2cae8;fill-opacity:1;stroke-width:0.624831"
+     r="24.993223"
+     cy="49.054829"
+     cx="50.920155"
+     transform="rotate(1.0732597)" />
+  <path
+     style="fill:#254e70;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05615"
+     d="m 7.586513,60.697037 v 0 c 0.1207038,0.07966 0.4092358,-0.431886 2.571859,-1.909958 0.365789,-0.250002 0.827352,-0.526272 1.371614,-0.819253 1.953978,-1.051846 5.640627,-2.676039 9.557051,-3.282033 1.712119,-0.264919 3.402714,-0.328639 5.041065,-0.133767 1.5859,0.188633 3.007342,0.604195 4.365478,1.212121 1.328808,0.594799 2.684453,1.414813 4.095738,2.439679 1.494983,1.085646 3.19628,2.50718 5.11238,4.37468 2.359985,2.193543 4.720725,3.974014 7.044544,5.372231 4.372542,2.630912 9.02046,4.146884 13.592112,4.556752 7.163128,0.642204 13.133022,-1.477243 17.41914,-4.492381 4.905852,-3.4511 7.3221,-7.710356 8.795037,-10.729922 0.370326,-0.759177 0.686431,-1.452236 0.979253,-2.069223 0.491507,-1.035625 0.905612,-1.977212 1.254803,-2.859671 0.812192,-2.052539 1.177553,-3.569016 1.224046,-4.37133 -0.245808,0.749413 -0.621706,2.278815 -1.86627,4.024076 -0.525441,0.73683 -1.186049,1.480215 -1.994384,2.156989 -0.484063,0.405278 -1.063303,0.793502 -1.725244,1.148742 C 81.705531,56.77407 77.938129,57.516822 74.00857,57.034847 70.629662,56.620409 67.683389,55.39986 64.621787,53.738675 62.709882,52.7013 60.448635,51.323062 58.033828,49.748165 56.71255,48.88645 55.160797,47.844497 53.430289,46.536318 49.952376,43.789205 46.232675,41.727361 42.375635,40.469887 38.673482,39.26291 35.042846,38.86216 31.623824,39.151982 c -3.385809,0.287005 -6.36814,1.232474 -8.904867,2.507164 -2.600737,1.306853 -4.715085,2.948079 -6.394374,4.582997 -3.835401,3.734062 -5.82036,7.834259 -6.7782863,9.89303 -0.278638,0.598846 -0.5070253,1.108249 -0.7095773,1.527192 -1.2517156,2.588954 -1.3485106,2.969795 -1.2502064,3.034672 z"
+     id="path1728-5"
+     class="UnoptimicedTransforms" />
+  <path
+     id="path10529-35"
+     style="fill:#f0f0f0;stroke-width:2.17522"
+     d="m 57.735076,33.780242 5.716728,-0.412862 -0.203434,5.876289 -6.119003,0.772555 z" />
+  <path
+     id="path10529-3-6"
+     style="fill:#ffffff;stroke-width:1.08761"
+     d="m 51.927917,40.222654 2.858365,-0.20643 -0.101717,2.938143 -3.059502,0.386277 z" />
+  <text
+     style="font-size:4px;font-family:Arial, sans-serif;white-space:pre;display:none;fill:#333333"
+     x="111.489"
+     y="69.220001"
+     id="text1">Enter your text here</text>
+</svg>
