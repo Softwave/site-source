@@ -5,7 +5,15 @@ tags: page
 date: 2024-02-26
 ---
 
+## About 
+
+**Last Updated: 2024-03-04**
+
 More thorough information about me, and links to my various presences online. 
+
+A resume and further information will be coming.
+
+<a href="../Resume.pdf" class="flat-button">Resume 📄</a>
 
 ## Links 
 
