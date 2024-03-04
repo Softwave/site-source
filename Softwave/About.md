@@ -41,10 +41,11 @@ This is something people ask me about relatively frequently, so I thought I'd pu
 
 My computer is the first desktop I've ever built. 
 
+* **Name:** Discovery 
 * **Processor:** Intel Core i5-12400F @ 4.4GHz (6 cores, 12 threads)
 * **RAM:** 32GB Corsair
 * **GPU:** RTX 3060 w. 12GB vRAM
 * **Case:** [Fractal Design Focus 2 (White)](https://www.fractal-design.com/products/cases/focus/focus-2/white-tg-clear-tint/)
 * **Storage:** 1TB M.2, 1TB SATA 
 * **Keyboard:** [Keychron K6](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard) with [Glorious Panda switches](https://www.gloriousgaming.com/products/glorious-panda-mechanical-switches?variant=37691905933487) and KBDFans SA profile Violet PBT keycaps
-
+* **Mouse:** [Logitech MX Master 2S](https://www.logitech.com/en-us/eol/mx-master-2s-mouse.910-005137.html)
