@@ -11,10 +11,6 @@ date: 2024-02-26
 
 More thorough information about me, and links to my various presences online. 
 
-A resume and further information will be coming.
-
-<a href="../Resume.pdf" class="flat-button">Resume 📄</a>
-
 ## Links 
 
 * **GitHub:** [Softwave](https://github.com/Softwave)

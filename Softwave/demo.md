@@ -27,7 +27,6 @@ Yo this is a test, testing if p5.js, buttons, image modals and more work well wi
 		z-index: -1;
 	}
 </style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
 <script>
 let particles = [];
 class Particle {
@@ -66,6 +65,16 @@ class Particle {
       let dis = dist(this.x,this.y,element.x,element.y);
       if(dis<85) {
         //stroke('rgba(255,255,255,0.04)');
+        stroke('#c2cae8');
+        line(this.x,this.y,element.x,element.y);
+      }
+    });
+  }
+
+  drawLines(particles) {
+    particles.forEach(element =>{
+      let dis = dist(this.x,this.y,element.x,element.y);
+      if(dis<85) {
         stroke('#c2cae8');
         line(this.x,this.y,element.x,element.y);
       }
