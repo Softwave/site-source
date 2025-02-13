@@ -19,6 +19,6 @@ def copy_directory(source_dir, destination_dir):
 
 # Example usage:
 if __name__ == "__main__":
-    source_directory = "/home/discovery/Documents/GitHub/site-source/Softwave/_site"
+    source_directory = "/home/discovery/Documents/GitHub/site-source/_site"
     destination_directory = "/home/discovery/Documents/GitHub/softwave.github.io"
     copy_directory(source_directory, destination_directory)

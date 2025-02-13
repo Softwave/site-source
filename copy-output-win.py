@@ -19,6 +19,6 @@ def copy_directory(source_dir, destination_dir):
 
 # Example usage:
 if __name__ == "__main__":
-    source_directory = r"C:\Users\jcley\OneDrive\Documents\GitHub\site-source\Softwave\_site"
-    destination_directory = r"C:\Users\jcley\OneDrive\Documents\GitHub\softwave.github.io"
+    source_directory = r"C:\Users\jcley\Documents\GitHub\site-source\_site"
+    destination_directory = r"C:\Users\jcley\Documents\GitHub\softwave.github.io"
     copy_directory(source_directory, destination_directory)
