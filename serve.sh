@@ -1,2 +1,2 @@
 # Serve the site 	
-npx @11ty/eleventy --serve
+bunx @11ty/eleventy --serve
