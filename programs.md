@@ -1,7 +1,7 @@
 ---
 title: Programs
 layout: layouts/page.njk
-tags: page
+tags: 
 date: 2023-07-23
 ---
 
