@@ -7,7 +7,7 @@ date: 2025-02-15
 
 ## FAQ 
 
-**Last Updated: 2025-02-15**
+**Last Updated: 15 Feb 2025**
 
 Some responses to questions I am often asked.  
 
